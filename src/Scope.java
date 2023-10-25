@@ -10,8 +10,8 @@ public class Scope {
             System.out.println("x="+i);
         }
             // System.out.println(i);
-        for (;;) {
-            System.out.print("x");
-        }
+//        for (;;) {
+//            System.out.print("x");
+//        }
     }
 }
