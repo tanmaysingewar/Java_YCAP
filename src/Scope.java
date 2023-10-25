@@ -13,5 +13,6 @@ public class Scope {
         for (;;) {
             System.out.print("x");
         }
+
     }
 }
