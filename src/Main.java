@@ -16,7 +16,7 @@ public class Main {
         short s = (short) a;
         System.out.println("Short="+s);
 
-//        Float
+        // Float
         float f = (float)a;
         System.out.println("Float="+f);
 
