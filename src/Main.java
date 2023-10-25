@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int a = 10, b =20;
+        // Output will be string
+        System.out.println("Add="+a+b);
+        // Output will be String and addition in int
+        System.out.println("Add="+a+b);
+
     }
 }
