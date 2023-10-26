@@ -19,7 +19,7 @@ class Implement {
 public class Obj {
     public static void main(String[] args) {
 //        Test obj1; // null obj
-        Tests obj2 = new Tests(); // memory allocation obj
+        Test obj2 = new Test(); // memory allocation obj
         obj2.show();
         Implement imp = new Implement();
         imp.show();
